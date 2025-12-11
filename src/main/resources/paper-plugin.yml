@@ -1,0 +1,10 @@
+name: BedrockDestructor
+version: '1.0-PRERELEASE'
+main: com.chownnick.bedrockDestructor.BedrockDestructor
+api-version: '1.21'
+prefix: BedrockDestructor9000
+folia-supported: true
+load: STARTUP
+authors: [ Ethan Scott Hedden ]
+description: A plugin to allow the destruction of bedrock.
+website: https://chownnick.com
