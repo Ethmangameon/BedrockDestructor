@@ -3,3 +3,4 @@ It's pretty simple, it just looks for if an exploding TNT entity is touching bed
 
 ### Build instruction
 With maven run 'mvn -B package --file pom.xml'
+The .jar should be in the new ./targets folder.
