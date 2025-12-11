@@ -1,8 +1,8 @@
 name: BedrockDestructor
-version: '1.0-PRERELEASE'
+version: '1.0'
 main: com.chownnick.bedrockDestructor.BedrockDestructor
 api-version: '1.21'
-prefix: BedrockDestructor9000
+prefix: BedrockDestructor
 folia-supported: true
 load: STARTUP
 authors: [ Ethan Scott Hedden ]
